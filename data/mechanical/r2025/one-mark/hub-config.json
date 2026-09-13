@@ -1,0 +1,10 @@
+{
+  "regulation": "R-2025",
+  "title": "R-2025 1-Mark Question Bank",
+  "note": "Original ACADRIX practice MCQs. Not official university questions or PYQs.",
+  "subjects": [
+    {"code":"ME25C03","subject":"Introduction to Mechanical Engineering","units":5,"mcqs":125},
+    {"code":"MA25C01","subject":"Applied Calculus","units":4,"mcqs":120},
+    {"code":"MA25C02","subject":"Linear Algebra","units":4,"mcqs":120}
+  ]
+}
